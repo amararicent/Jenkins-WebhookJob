@@ -5754,11 +5754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WebhookTest\\WebHookApp\\WebApplication3.UnitTest\\WebApplication3.UnitTest.csproj",
+      "projectUniqueName": "C:\\Amarendra\\Jenkins-WebhookJob\\WebhookTest\\WebHookApp\\WebApplication3.UnitTest\\WebApplication3.UnitTest.csproj",
       "projectName": "WebApplication3.UnitTest",
-      "projectPath": "C:\\WebhookTest\\WebHookApp\\WebApplication3.UnitTest\\WebApplication3.UnitTest.csproj",
+      "projectPath": "C:\\Amarendra\\Jenkins-WebhookJob\\WebhookTest\\WebHookApp\\WebApplication3.UnitTest\\WebApplication3.UnitTest.csproj",
       "packagesPath": "C:\\Users\\akumar\\.nuget\\packages\\",
-      "outputPath": "C:\\WebhookTest\\WebHookApp\\WebApplication3.UnitTest\\obj\\",
+      "outputPath": "C:\\Amarendra\\Jenkins-WebhookJob\\WebhookTest\\WebHookApp\\WebApplication3.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
